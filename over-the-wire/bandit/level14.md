@@ -9,3 +9,4 @@ Steps:
 1. `ls`
 1. `cat sshkey.private`
 1. `ssh -i sshkey.private bandit14@localhost`
+1. `cat /etc/bandit_pass/bandit14`
